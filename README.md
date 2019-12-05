@@ -8,4 +8,7 @@ It's based on pure JavaScript, without jQuery or something.
    See how Caesar cipher works: [here](https://en.wikipedia.org/wiki/Caesar_cipher "Wikipedia").
    
  3. At last click "Cipher" and viola! Encrypted text shows on bottom of the page.
+ 
+ ## Additional info
+ Caesar cipher web application is avalaible in english and polish.
 
